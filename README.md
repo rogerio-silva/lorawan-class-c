@@ -7,7 +7,7 @@
 
 ## An ns-3 module for simulation of LoRaWAN networks which has a rough implementation of class-c end device. This module is modified based on [QiuYukang - Class C implementation](https://github.com/QiuYukang/lorawan/tree/class-c) that is an [ns-3](https://www.nsnam.org "ns-3 Website") module, forked from [Davide Magrin, et. al.](https://github.com/signetlabdei/lorawan). 
 
-This module can be used to perform simulations of a [LoRaWAN](http://www.lora-alliance.org/technology)"LoRa Alliance" network.
+This module can be used to perform simulations of a [LoRaWAN](http://www.lora-alliance.org/technology) "LoRa Alliance" network.
 
 ---
 
