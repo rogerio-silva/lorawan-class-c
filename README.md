@@ -1,11 +1,15 @@
-# LoRaWAN ns-3 module #
+# LoRaWAN ns-3 module 
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/ns-3-lorawan)
 [![Build Status](https://travis-ci.org/signetlabdei/lorawan.svg?branch=master)](https://travis-ci.org/signetlabdei/lorawan)
 
-This is an [ns-3](https://www.nsnam.org "ns-3 Website") module that can be used
-to perform simulations of a [LoRaWAN](http://www.lora-alliance.org/technology
-"LoRa Alliance") network.
+---
+
+## An ns-3 module for simulation of LoRaWAN networks which has a rough implementation of class-c end device. This module is modified based on [QiuYukang - Class C implementation](https://github.com/QiuYukang/lorawan/tree/class-c) that is an [ns-3](https://www.nsnam.org "ns-3 Website") module, forked from [Davide Magrin, et. al.](https://github.com/signetlabdei/lorawan). 
+
+This module can be used to perform simulations of a [LoRaWAN](http://www.lora-alliance.org/technology)"LoRa Alliance" network.
+
+---
 
 [API documentation](https://signetlabdei.github.io/lorawan-docs/html/index.html).
 
@@ -89,6 +93,13 @@ gitter chat](https://gitter.im/ns-3-lorawan "lorawan Gitter chat").
 
 ## Authors ##
 
+### This version
+- Rogério S. Silva ([rogerio-silva](https://github.com/rogerio-silva))
+
+### Class-C module
+- [QiuYukang](https://github.com/QiuYukang)
+
+### LoRaWAN original module
 - Davide Magrin
 - Martina Capuzzo
 - Stefano Romagnolo
